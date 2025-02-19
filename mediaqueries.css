@@ -1,0 +1,22 @@
+
+@media screen and(max-width:1400px){
+
+  #profile{
+    
+    margin-bottom:6rem;
+  }
+  .about-containrs{
+    flex-wrap:wrap;
+  }
+}
+  
+@media screen and (max-width:1200px){
+
+  #desktop-navbar{
+    display:none;
+  }
+  #hamburger{
+    display:flex;
+
+  }
+}
